@@ -1,2 +1,6 @@
 general:
   build_dir: js
+
+test:
+  override:
+    - jasmine
